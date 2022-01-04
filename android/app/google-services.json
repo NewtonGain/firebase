@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854860819865",
+    "project_id": "home-tutor-308d2",
+    "storage_bucket": "home-tutor-308d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854860819865:android:2becd95190f109f25b3708",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854860819865-u8qgikf1784spdop4h3ig712keb4ikb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzdd7R98hKBuCp9-_SahWxA4m1PG0PiBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854860819865-u8qgikf1784spdop4h3ig712keb4ikb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
